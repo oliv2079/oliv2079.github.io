@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Oliver Rutving"
   avatar           : "https://raw.githubusercontent.com/oliv2079/oliv2079.github.io/master/pp.png"
-  bio              : "BSc in Mathematics and Technology, currently studying MSc in Human-Centered Artificial Intelligence "
+  bio              : "BSc in Mathematics and Technology, Currently Studying MSc in Human-Centered Artificial Intelligence "
   location         : "Lyngby, DK"
   email            : "doocmail@gmail.com"
   links:
@@ -131,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-Linkedin"
+      url: "https://www.linkedin.com/in/oliver-rutving-61325813b/"
 
 # Site Footer
 footer:
