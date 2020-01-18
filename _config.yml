@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-DK"
-title                    : "Oliver Rutving"
+title                    : "Oliver Rutving's Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Oliver Rutving"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Oliver Rutving"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://raw.githubusercontent.com/oliv2079/oliv2079.github.io/master/pp.png"
   bio              : "BSc in Mathematics and Technology, currently studying MSc in Human-Centered Artificial Intelligence "
   location         : "Lyngby, DK"
   email            : "doocmail@gmail.com"
