@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url:  "https://github.com/oliv2079"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -156,6 +156,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/oliver-rutving-61325813b/"
 
 
 # Reading Files
