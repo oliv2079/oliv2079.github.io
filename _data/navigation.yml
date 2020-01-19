@@ -28,11 +28,11 @@ projects:
   - title: Projects
     children:
       - title: "Slime Golf"
-      - url: /posts/2020-01-19-HelloWorld/
+      - url: /pages/handbook.md
 
 
 hobbies:
   - title: Hobbies
     children:
       - title: "Music"
-      - url: /posts/2020-01-19-HelloWorld/
+      - url: /pages/handbook.md
