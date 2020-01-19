@@ -6,7 +6,7 @@ excerpt: "Data Science"
 toc: true
 toc_label: ToC
 toc_icon: "cog"
-classes: wide
+#classes: wide
 author_profile: false
 sidebar:
     nav: "handbook"
