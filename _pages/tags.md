@@ -1,10 +1,10 @@
 ---
 layout: collection
-permalink: /tags/
+permalink: /portfolio/
 title: Portfolio
 collection: portfolio
 entries_layout: grid
 classes: wide
 ---
 
-test
+Sample document listing for the collection `_portfolio`.
