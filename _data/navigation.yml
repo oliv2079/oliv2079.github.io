@@ -21,7 +21,7 @@ handbook:
   - title: Handbook
     children:
       - title: "First Post"
-      - url: /posts/2020-01-19-HelloWorld/
+      - url: /pages/handbook.md
 
 
 projects:
