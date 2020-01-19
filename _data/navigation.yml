@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "About Me"
+  - title: "About"
     url: /about/
   - title: "Handbook"
     url: /handbook/
@@ -28,4 +28,11 @@ projects:
   - title: Projects
     children:
       - title: "Slime Golf"
+      - url: /posts/2020-01-19-HelloWorld/
+
+
+hobbies:
+  - title: Hobbies
+    children:
+      - title: "Music"
       - url: /posts/2020-01-19-HelloWorld/
