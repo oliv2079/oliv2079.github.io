@@ -8,6 +8,8 @@ toc_label: ToC
 toc_icon: "cog"
 classes: wide
 author_profile: false
+sidebar:
+    nav: "handbook"
 ---
 
 # H1 Heading

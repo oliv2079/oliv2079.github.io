@@ -14,3 +14,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+handbook:
+  - title: Handbook
+    children:
+      - title: "First Post"
+      - url: /posts/2020-01-19-HelloWorld/
