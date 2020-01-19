@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "About"
+  - title: "About Me"
     url: /about/
   - title: "Handbook"
     url: /handbook/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Projects"
+    url: /projects/
+  - title: "Hobbies"
+    url: /hobbies/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -19,4 +21,11 @@ handbook:
   - title: Handbook
     children:
       - title: "First Post"
+      - url: /posts/2020-01-19-HelloWorld/
+
+
+projects:
+  - title: Projects
+    children:
+      - title: "Slime Golf"
       - url: /posts/2020-01-19-HelloWorld/
