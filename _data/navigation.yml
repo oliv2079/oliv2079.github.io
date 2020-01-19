@@ -21,14 +21,14 @@ handbook:
   - title: Handbook
     children:
       - title: "First Post"
-      - url: /pages/handbook.md
+      - url: /handbook/
 
 
 projects:
   - title: Projects
     children:
       - title: "Slime Golf"
-      - url: /pages/handbook.md
+      - url: /handbook/
 
 
 hobbies:
