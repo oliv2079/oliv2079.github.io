@@ -7,6 +7,7 @@ toc: true
 toc_label: ToC
 toc_icon: "cog"
 classes: wide
+author_profile: false
 ---
 
 # H1 Heading
