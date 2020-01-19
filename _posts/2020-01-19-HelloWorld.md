@@ -3,6 +3,9 @@ title: "This is my first post"
 date: 2020-01-19
 tags: [data science]
 excerpt: "Data Science"
+toc: true
+toc_label: ToC
+toc_icon: "cog"
 ---
 
 # H1 Heading
