@@ -319,7 +319,7 @@ defaults:
       toc: true
       toc_label: Table of Contents
       toc_icon: "cog"
-      sidebar:
-          nav: "handbook"
+      #sidebar:
+      #    nav: "handbook"
 
 
