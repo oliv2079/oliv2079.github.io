@@ -58,4 +58,4 @@ I have an undying love for Kirby and especially Kirby's Dream Course which is wh
 
 Thanks for reading!
 
-{% include figure image_path="/images/slime-golf/kirby.webp" alt="this is a placeholder image" caption="Kirby's Dream Course" %}
+{% include figure image_path="/images/slime-golf/kirby.webp" alt="this is a placeholder image" caption="Kirby's Dream Course ([Source](https://tiltcontrols.tumblr.com/)) " %}
