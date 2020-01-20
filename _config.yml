@@ -165,7 +165,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _handbook
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -286,6 +285,13 @@ compress_html:
   ignore:
     envs: development
 
+
+
+# Collections
+collections:
+  handbook:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
