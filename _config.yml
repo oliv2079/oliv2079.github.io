@@ -311,7 +311,7 @@ defaults:
   # _handbook
   - scope:
       path: ""
-      type: pages
+      type: handbook
     values:
       layout: single
       author_profile: false
