@@ -21,7 +21,7 @@ handbook:
   - title: Handbook
     children:
       - title: "SQL"
-        url: /sql/
+        url: /handbook/sql/
 
 
 projects:

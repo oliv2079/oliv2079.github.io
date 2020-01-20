@@ -1,5 +1,5 @@
 ---
-title: "Projects:"
+title: "Project Updates:"
 author_profile: false
 permalink: /projects/
 layout: posts
