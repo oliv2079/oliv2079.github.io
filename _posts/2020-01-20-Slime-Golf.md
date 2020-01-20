@@ -16,12 +16,12 @@ gallery:
     image_path: /images/slime-golf/slimesmile.png
     alt: "placeholder image 1"
     #title: "Image 1 title caption"
-  - url: /images/slime-golf/coolslime.png
-    image_path: /images/slime-golf/catslime.png
+  - url: /images/slime-golf/coolslime.PNG
+    image_path: /images/slime-golf/coolslime.PNG
     alt: "placeholder image 2"
     #title: "Image 2 title caption"
-  - url: /images/slime-golf/catslime.png
-    image_path: /images/slime-golf/catslime.png
+  - url: /images/slime-golf/catslime.PNG
+    image_path: /images/slime-golf/catslime.PNG
     alt: "placeholder image 3"
     #title: "Image 3 title caption"
 
@@ -36,7 +36,7 @@ The graphics are no longer a problem, I've become reasonably comfortable with pi
 
 Personally, I think it looks pretty good. Here are some animations I've been working on for the slimes:
 
-{% include figure image_path="/images/slime-golf/slime1.gif" alt="this is a placeholder image" caption="Pink Slime" %}
+{% include figure image_path="/images/slime-golf/slime1.gif" alt="this is a placeholder image" %}
 
 {% include gallery %}
 
