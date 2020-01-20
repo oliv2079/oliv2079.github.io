@@ -12,7 +12,7 @@ sidebar:
     nav: "projects"
 ---
 
-![image-right](/images/kirbycover.png){: .align-right}
+![image-right](/images/slime-golf/kirbycover.png){: .align-right}
 
 This is a short announcement about a "golf" game I'm working on based on the mechanics of Kirby's Dream Course (Kirby Ball) from 1994.
 
