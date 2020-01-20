@@ -1,6 +1,6 @@
 ---
 title: "Hobbies"
-author_profile: true
+author_profile: false
 permalink: /hobbies/
 sidebar:
     nav: "hobbies"
