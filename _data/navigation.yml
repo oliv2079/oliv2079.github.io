@@ -35,4 +35,4 @@ hobbies:
   - title: Hobbies
     children:
       - title: "Music"
-        url: /hobbies/handbook/
+        url: /handbook/
