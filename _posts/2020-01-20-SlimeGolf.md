@@ -39,5 +39,3 @@ Personally, I think it looks pretty good:
 Here are some early stage pixel art:
 
 {% include gallery %}
-
-Hello
