@@ -47,7 +47,7 @@ Personally, I think it looks pretty good:
 Here is some early stage pixel art:
 
 {% include gallery id="gallery" %}
-I've also been working on some sprites for building levels (very early stage):
+I've also been working on some sprites for building levels:
 
 {% include gallery id="gallery2" %}
 
