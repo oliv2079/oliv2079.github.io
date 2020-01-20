@@ -1,5 +1,5 @@
 ---
-title: "Slime Golf"
+title: "Slime Golf Announcement"
 date: 2020-01-20
 tags: [Game Development]
 excerpt: "Slime Golf Game Development"
