@@ -10,19 +10,17 @@ toc_icon: "cog"
 author_profile: true
 sidebar:
     nav: "projects"
+
 gallery:
   - url: /images/slime-golf/coolslime.PNG
     image_path: /images/slime-golf/coolslime.PNG
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
   - url: /images/slime-golf/catslime.PNG
     image_path: /images/slime-golf/catslime.PNG
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
   - url: /images/slime-golf/catslime2.PNG
     image_path: /images/slime-golf/catslime2.PNG
     alt: "placeholder image 3"
-    title: "Image 3 title caption"
 ---
 
 
