@@ -20,8 +20,8 @@ main:
 handbook:
   - title: Handbook
     children:
-      - title: "First Post"
-        url: /handbook/
+      - title: "SQL"
+        url: /sql/
 
 
 projects:
