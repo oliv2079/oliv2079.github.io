@@ -2,7 +2,7 @@
 title: "Data Science Handbook"
 permalink: /handbook/
 author_profile: false
-toc: false
+toc: true
 toc_label: ToC
 toc_icon: "cog"
 sidebar:
