@@ -21,18 +21,18 @@ handbook:
   - title: Handbook
     children:
       - title: "First Post"
-      - url: /handbook/
+        url: /handbook/
 
 
 projects:
   - title: Projects
     children:
       - title: "Slime Golf"
-      - url: /handbook/
+        url: /handbook/
 
 
 hobbies:
   - title: Hobbies
     children:
       - title: "Music"
-      - url: http://rutving.com/handbook/
+        url: /hobbies/handbook/
