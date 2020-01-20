@@ -12,6 +12,8 @@ sidebar:
     nav: "projects"
 ---
 
+![image-right](/images/kirbycover.png){: .align-right}
+
 This is a short announcement about a "golf" game I'm working on based on the mechanics of Kirby's Dream Course (Kirby Ball) from 1994.
 
 I've hit a wall in development, mainly because I've never made a game before and making one is (surprisingly) not that easy.
