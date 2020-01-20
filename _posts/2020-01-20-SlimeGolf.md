@@ -2,7 +2,7 @@
 title: "Slime Golf Announcement"
 date: 2020-01-20
 tags: [Game Development]
-excerpt: "Slime Golf Game Development"
+excerpt: "This is an early look at my game project *Slime Golf* based on the mechanics of the old Nintendo game: *Kirby's Dream Course* from 1994"
 toc: false
 toc_label: ToC
 toc_icon: "cog"
