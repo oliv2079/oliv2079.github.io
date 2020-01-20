@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Oliver Rutving"
-  avatar           : "https://raw.githubusercontent.com/oliv2079/oliv2079.github.io/master/pp.png"
+  avatar           : /images/pp.png
   bio              : "BSc in Mathematics and Technology, Currently Studying MSc in Human-Centered Artificial Intelligence "
   location         : "Lyngby, DK"
   email            : "doocmail@gmail.com"
