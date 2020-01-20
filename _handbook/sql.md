@@ -7,4 +7,4 @@ permalink: /handbook/sql/
 
 ## Headline 2
 
-{% include figure image_path="/images/convergence.pdf" alt="this is a placeholder image" caption="GRAERPH" %}
+<embed src="https://rutving.com/images/convergence.pdf" type="application/pdf">
