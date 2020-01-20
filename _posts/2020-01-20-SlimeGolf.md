@@ -44,7 +44,6 @@ Personally, I think it looks pretty good:
 Here is some early stage pixel art:
 
 {% include gallery id="gallery" %}
-
 I've also been working on some sprites for building levels (very early stage):
 
 {% include gallery id="gallery2" %}
@@ -58,3 +57,5 @@ Again, this is a very early look at the game. I definitely think it has potentia
 I have an undying love for Kirby and especially Kirby's Dream Course which is why I'm determined to finish this game no matter what. Working on this game has been an absolute joy so far, I will post more updates when I feel like I've made some progress.
 
 Thanks for reading!
+
+{% include figure image_path="/images/slime-golf/kirby.webp" alt="this is a placeholder image" caption="Kirby's Dream Course" %}
