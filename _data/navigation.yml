@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Handbook"
-    url: /handbook/
+    url: /handbook/overview/
   - title: "Projects"
     url: /projects/
   - title: "Hobbies"
