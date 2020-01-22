@@ -1,5 +1,5 @@
 ---
-title: "Data Science Handbook"
+title: "Handbook Overview"
 permalink: /handbook/
 layout: collection
 collection: handbook
