@@ -17,6 +17,8 @@ Here is a spotify playlist with my favourite 200 albums with one song from each 
 
 <iframe src="https://open.spotify.com/embed/playlist/66keuli18g0f8by7A6cAk9"  width="600" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+<br/>
+
 # Follow Me
 
 If you like what I listen to, consider following me on spotify
