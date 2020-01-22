@@ -35,4 +35,4 @@ hobbies:
   - title: Hobbies
     children:
       - title: "Music"
-        url: /hobbies/Top200Albums/
+        url: /hobbies/music/
