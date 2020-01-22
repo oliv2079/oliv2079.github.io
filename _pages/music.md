@@ -4,8 +4,9 @@ permalink: /hobbies/Top200Albums/
 author_profile: true
 
 sidebar:
-    -text: "If you like what I listen to, consider following me on spotify"
-    -text: <iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:1129808992&size=detail&theme=dark" width="300" height="60" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+     text: "If you like what I listen to, consider following me on spotify"
+     text: <iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:1129808992&size=detail&theme=dark" width="300" height="60" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+
 
 ---
 
