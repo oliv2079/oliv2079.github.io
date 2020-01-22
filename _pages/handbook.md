@@ -1,7 +1,7 @@
 ---
 title: "Data Science Handbook"
 permalink: /handbook/
-layout: single
+layout: collection
 collection: handbook
 author_profile: false
 toc: true
