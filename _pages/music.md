@@ -5,8 +5,9 @@ author_profile: true
 toc: true
 toc_label: Table of Contents
 toc_icon: "cog"
+toc_sticky: true
 ---
-I love music. It is by far my favourite artfom and generally just makes life worth living (among many other things). In particular, I like atmospheric alternative (indie) music as it can make the otherwise (imo) stale and boring world seem vibrant and unfamiliar. Whatever mood I'm in, there seems to always be music that I resonates to. What's more is that there is always new music to be discovered. I love exploring the endless sea of genres out there and listening to sounds I've never heard before. In fact, most my favourite songs are very different from the norm and can be somewhat daunting on the first listen. However, theses are usually the ones that have the most depth and that keep being interesting no matter how many times you listen to them.
+I love music. It is by far my favourite artfom and generally just makes life worth living (among many other things). In particular, I like atmospheric alternative (indie) music as it can make the otherwise (imo) stale and boring world seem vibrant and unfamiliar. Whatever mood I'm in, there seems to always be music that resonates with me. What's more is that there is always new music to be discovered. I love exploring the endless sea of genres out there and listening to sounds I've never heard before. In fact, most my favourite songs are very different from the norm and can be somewhat daunting on the first listen. However, theses are usually the ones that have the most depth and that keep being interesting no matter how many times you listen to them.
 
 Anyways, this post isn't a list of the songs I think have the sickest bass or the tightest beats. I seriously encourage you to take a step back and really familiarize yourself if a song strikes your interest. I promise it's worth it!
 
