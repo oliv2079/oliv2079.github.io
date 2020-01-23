@@ -1,5 +1,5 @@
 ---
-title: "Music"
+title: "My Favourite Music"
 permalink: /hobbies/music/
 author_profile: true
 toc: true
@@ -15,7 +15,7 @@ Anyways, this post isn't a list of the songs I think have the sickest bass or th
 
 Here is a spotify playlist with my favourite 200 albums with one song from each album. They are ranked from favourite (album) to least favourite (of the 200). If there is a song you like, check out the album! The rest of the songs on there are usually equally good and keeps the vibe going.
 
-<iframe src="https://open.spotify.com/embed/playlist/66keuli18g0f8by7A6cAk9"  width="600" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/66keuli18g0f8by7A6cAk9"  width="650" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <br/>
 
@@ -23,5 +23,3 @@ Here is a spotify playlist with my favourite 200 albums with one song from each 
 
 If you like what I listen to, consider following me on spotify
 <iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:1129808992&size=detail&theme=dark" width="300" height="60" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
-
-test
