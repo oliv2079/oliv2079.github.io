@@ -11,11 +11,11 @@ I love music. It is by far my favourite artfom as it makes the otherwise (imo) s
 
 Anyways, this post isn't a list of the songs I think have the sickest bass or the tightest beats. I seriously encourage you to take a step back and really familiarize yourself if a song strikes your interest. I promise it's worth it!
 
-# Top 200 Albums
+# Top 250 Albums
 
-Here is a spotify playlist with my favourite 200 albums with one song from each album. They are ranked from favourite (album) to least favourite (of the 200). If there is a song you like, check out the album! The rest of the songs on there are usually equally good and keeps the vibe going.
+Here is a spotify playlist with my favourite 250 albums with one song from each album. They are ranked from favourite (album) to least favourite (of the 250). If there is a song you like, check out the album! The rest of the songs on there are usually equally good and keeps the vibe going.
 
-<iframe src="https://open.spotify.com/embed/playlist/66keuli18g0f8by7A6cAk9"  width="650" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/66keuli18g0f8by7A6cAk9"  width="640" height="600" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <br/>
 
