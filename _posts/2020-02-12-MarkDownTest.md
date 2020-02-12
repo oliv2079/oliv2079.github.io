@@ -14,6 +14,10 @@ sidebar:
 
 ---
 
-[OpenasJupyterHandbook]("https://rutving.com/images/Ipython.html")
+[OpenasJupyterHandbook](/images/Ipython.html)
+
+some text and [here is possible to download the file in PDF][1]
+
+[1]:{{ site.url }}/download/file.pdf
 
 {% include_relative Ipython.md %}
