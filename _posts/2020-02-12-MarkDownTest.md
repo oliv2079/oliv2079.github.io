@@ -15,3 +15,4 @@ sidebar:
 ---
 
 
+{% include_relative Ipython.md %}
