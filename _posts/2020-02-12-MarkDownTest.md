@@ -6,7 +6,7 @@ excerpt: "Just testing the importation of Jupyter notebooks to the website"
 toc: false
 toc_label: ToC
 toc_icon: "cog"
-#classes: wide
+classes: wide
 author_profile: true
 
 sidebar:
