@@ -14,5 +14,5 @@ sidebar:
 
 ---
 
-[Open as HTML]({% _posts/Ipython.html %})
+[Open as HTML]({% link _posts/Ipython.html %})
 {% include_relative Ipython.md %}
