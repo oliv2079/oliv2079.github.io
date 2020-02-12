@@ -14,6 +14,6 @@ sidebar:
 
 ---
 
-[OpenasJupyterHandbook]({% link /posts/Ipython.html %})
+[OpenasJupyterHandbook]("https://rutving.com/images/Ipython.html")
 
 {% include_relative Ipython.md %}
