@@ -132,7 +132,8 @@
     max-width: 180px;
     border-radius: 100%;
     margin: 0 auto;
-    left: -50px;
+    position: relative; left: -20px;
+
 
     ///////////////////////
     display: block;
@@ -168,7 +169,8 @@
 }
 
 .author__name {
-  margin: 0 auto;
+  margin: 0;
+  text-align: center;
 
   @include breakpoint($large) {
     margin-top: 10px;
