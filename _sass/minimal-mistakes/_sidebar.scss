@@ -119,16 +119,19 @@
   vertical-align: top;
   width: auto;
   height: auto;
+  margin: 0 auto;
 
   @include breakpoint($large) {
     display: block;
     width: auto;
     height: auto;
+    margin: 0 auto;
   }
 
   img {
     max-width: 200px;
     border-radius: 100%;
+    margin: 0 auto;
     ///////////////////////
     display: block;
     width: auto;
