@@ -129,6 +129,11 @@
   img {
     max-width: 200px;
     border-radius: 100%;
+    ///////////////////////
+    display: block;
+    width: auto;
+    height: auto;
+    ///////////////////////
 
     @include breakpoint($large) {
       padding: 5px;
@@ -140,7 +145,7 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 115px;
+  padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
 
