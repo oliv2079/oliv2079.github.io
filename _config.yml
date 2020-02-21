@@ -109,6 +109,7 @@ analytics:
 author:
   name             : "Oliver S. Hartelius Rutving"
   avatar           : /images/pp.png
+  home             : /about/
   bio              : "BSc in Mathematics and Technology, Currently Studying MSc in Human-Centered Artificial Intelligence "
   location         : "Lyngby, DK"
   email            : "doocmail@gmail.com"
