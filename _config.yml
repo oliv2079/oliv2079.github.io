@@ -25,7 +25,7 @@ url                      : "https://rutving.com" # the base hostname & protocol 
 baseurl                  : 
 repository               : oliv2079/oliv2079.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /images/logo.png
+logo                     : 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
