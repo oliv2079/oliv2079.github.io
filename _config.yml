@@ -329,4 +329,17 @@ defaults:
       sidebar:
         nav: "handbook"
 
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      toc: true
+      toc_label: Overview
+      toc_icon: "cog"
+      sidebar:
+        nav: "projects"
+
 

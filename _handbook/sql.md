@@ -1,8 +1,6 @@
 ---
 title: "Structured Query Language (SQL)"
 permalink: /handbook/sql/
-#classes: wide
-#collection: handbook
 header:
     teaser: /images/teaser/sql.jpg
 ---
