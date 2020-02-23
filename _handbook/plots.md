@@ -23,12 +23,13 @@ How do we analyze this data?
 
 ### Dot Plot: Key Points
 
-- Whenever a certain value occurs more than once in the data set, the corresponding data points fall right on top of each other, which makes it impossible to distinguish them. This is a frequent problem, especially if the data assumes only integer values. The problem is avoided by shifting each point by a small random amount from its original position resulting in a *Jitter Plot*
+- Whenever a certain value occurs more than once in the data set, the corresponding data points fall right on top of each other, which makes it impossible to distinguish them. This is a frequent problem, especially if the data assumes only integer values. The problem is avoided by shifting each point by a small random amount from its original position resulting in a Jitter Plot
 - Makes it hard to read off quantitative information from the graph. In particular, if we are dealing with larger data sets, then we need a better type of graph, such as a histogram.
 
 
 
 ### Jitter Plot: Key Points
+
 - It is important that the amount of “jitter” be small compared to the distance between points so as not to shift them signiﬁcantly from their true location.
 - We can jitter points in either the horizontal or the vertical direction (or both), depending on the data set and the purpose of the graph
 - Open rings are most easily recognized as separate even when partially occluded by each other. Filled symbols tend to hide any substructure when they overlap, and symbols made from straight lines (e.g., boxes and crosses) can be confusing because of the large number of parallel lines
