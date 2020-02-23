@@ -305,7 +305,6 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      mathjax: "true"
       share: true
       related: true
 
@@ -315,7 +314,6 @@ defaults:
       type: pages
     values:
       layout: single
-      mathjax: "true"
       author_profile: false
   
   # _handbook
@@ -327,7 +325,6 @@ defaults:
       author_profile: false
       toc: true
       toc_label: Overview
-      mathjax: "true"
       toc_icon: "cog"
       sidebar:
         nav: "handbook"
@@ -342,7 +339,6 @@ defaults:
       toc: true
       toc_label: Overview
       toc_icon: "cog"
-      mathjax: "true"
       sidebar:
         nav: "projects"
 
