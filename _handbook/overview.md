@@ -2,7 +2,7 @@
 title: "Data Science Handbook"
 permalink: /handbook/overview/
 layout: collection
-collection: handook
+collection: handbook
 entries_layout: grid
 teaser: /images/teaser/sql.jpg
 ---
