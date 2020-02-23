@@ -4,7 +4,7 @@ permalink: /handbook/Plots-and-Variables/
 header:
     teaser: /images/teaser/plot.png
 ---
-This page almost exclusively uses citations from the book [*Data Analysis with Open Source Tools*](http://shop.oreilly.com/product/9780596802363.do) by *Philipp K. Janert*
+This page almost exclusively uses citations from the book [*Data Analysis with Open Source Tools*](http://shop.oreilly.com/product/9780596802363.do){:target="_blank"} by *Philipp K. Janert*
 
 ## Single Variables (Univariate)
 
