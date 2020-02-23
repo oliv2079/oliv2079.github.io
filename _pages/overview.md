@@ -5,6 +5,8 @@ layout: collection
 collection: handbook
 entries_layout: grid
 classes: wide
+sidebar:
+nav: "handbook"
 ---
 
 This is my Handbook that I use as a 'Cheat Sheet' when working with Data Science. It has been crafted to work with my personal workflow so it might not be universally applicable. 
