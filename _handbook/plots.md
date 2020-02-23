@@ -7,8 +7,7 @@ header:
 
 # Single Variables (Univariate)
 
-**WHEN DEALING WITH UNIVARIATE DATA, WE ARE USUALLY MOSTLY CONCERNED WITH THE OVERALL SHAPE OF THE DISTRIBUTION**
-*Some of the initial questions we may ask include:*
+*With univariate data, we usualy only car about the overall shape of the distribution:*
 - Where are the data points located, and how far do they spread? What are typical, as well as minimal and maximal, values? 
 - How are the points distributed? Are they spread out evenly or do they cluster in certain areas? 
 - How many points are there? Is this a large data set or a relatively small one? 
@@ -18,3 +17,4 @@ header:
 - Are the clusters possibly superimposed on some form of unstructured background, or does the entire data set consist only of the clustered data points? 
 - Does the data set contain any signiﬁcant outliers—that is, data points that seem to be different from all the others? 
 - And lastly, are there any other unusual or signiﬁcant features in the data set—gaps, sharp cutoffs, unusual values, anything at all that we can observe?
+
