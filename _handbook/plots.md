@@ -33,13 +33,13 @@ How do we analyze this data?
 - Open rings are most easily recognized as separate even when partially occluded by each other. Filled symbols tend to hide any substructure when they overlap, and symbols made from straight lines (e.g., boxes and crosses) can be confusing because of the large number of parallel lines
 - With larger data sets, we need a better type of graph, such as a *Histogram*.
 
-### [Histogram](#https://cnx.org/resources/0252376155055ef3702078b3cadf00ce5d5ce777/CNX_Stats_C02_M05a_002N.jpg)
+### Histogram
 
 - *Bin Width:* There is no simple rule of thumb that can predict a good bin width for a given data set; typically you have to try out several different values for the bin width until you get a good result. Assuming a Gaussian Distribution, one can start with Scott’s rule for the bin width $$w=3.5*\sigma *n^{-\frac{1}{3}}$$ where $$\sigma$$ is the standard deviation of the distribution and $$n$$ is the number of points.
 - In an *unnormalized histogram*, the value plotted for each bin is the absolute count of events in that bin
 - In a *normalized histogram*, we divide each count by the total number of points in the data set, so that the value for each bin becomes the fraction of points in that bin
 - *Differing Bin Widths:* narrower where points are tightly clustered but wider in areas where there are only few points. Appealing when the data set has outliers or areas with widely differing point density. *Problem*: should you display the absolute number of points per bin regardless of the width of each bin; or should you display the density of points per bin by normalizing the point count per bin by the bin width?
-- To compare two or more data sets, draw *frequency polygons*: remove the boxes, and draw symbols where the top of the boxes would have been. (The horizontal position of the symbol should be at the center of the bin.) Then connect consecutive symbols with straight lines. Frequency polygons are almost always a better choice than a histogram from boxes. If you nevertheless choose to use boxes, it is best to avoid ﬁlling them.
+- To compare two or more data sets, draw [*frequency polygons*](#/images/handbook/frequency-polygons.jpg): remove the boxes, and draw symbols where the top of the boxes would have been. (The horizontal position of the symbol should be at the center of the bin.) Then connect consecutive symbols with straight lines. Frequency polygons are almost always a better choice than a histogram from boxes. If you nevertheless choose to use boxes, it is best to avoid ﬁlling them.
 - When comparing several data sets in the same graph, always use a frequency polygon, and stay away from stacked or clustered bar graphs, since these are hard to read.
 
 
