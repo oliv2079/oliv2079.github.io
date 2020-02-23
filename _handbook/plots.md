@@ -33,7 +33,7 @@ How do we analyze this data?
 - Open rings are most easily recognized as separate even when partially occluded by each other. Filled symbols tend to hide any substructure when they overlap, and symbols made from straight lines (e.g., boxes and crosses) can be confusing because of the large number of parallel lines
 - With larger data sets, we need a better type of graph, such as a *Histogram*.
 
-### Histogram
+### [Histogram](#https://cnx.org/resources/0252376155055ef3702078b3cadf00ce5d5ce777/CNX_Stats_C02_M05a_002N.jpg)
 
 - *Bin Width:* There is no simple rule of thumb that can predict a good bin width for a given data set; typically you have to try out several different values for the bin width until you get a good result. Assuming a Gaussian Distribution, one can start with Scott’s rule for the bin width $$w=3.5*\sigma *n^{-\frac{1}{3}}$$ where $$\sigma$$ is the standard deviation of the distribution and $$n$$ is the number of points.
 - In an *unnormalized histogram*, the value plotted for each bin is the absolute count of events in that bin
