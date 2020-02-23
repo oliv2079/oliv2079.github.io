@@ -5,8 +5,6 @@ permalink: /handbook/sql/
 #collection: handbook
 header:
     teaser: /images/teaser/sql.jpg
-sidebar:
-    nav: "handbook"
 ---
 
 # Headline
