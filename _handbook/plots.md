@@ -23,6 +23,6 @@ How do we analyze this data?
 
 ### Dot Plot
 
-#### Cons:
+**Cons:**
 
 - Whenever a certain value occurs more than once in the data set, the corresponding data points fall right on top of each other, which makes it impossible to distinguish them. This is a frequent problem, especially if the data assumes only integer values.
