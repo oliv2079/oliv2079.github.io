@@ -326,6 +326,7 @@ defaults:
       toc: true
       toc_label: Overview
       toc_icon: "cog"
+      toc_sticky: true
       sidebar:
         nav: "handbook"
 
@@ -339,6 +340,7 @@ defaults:
       toc: true
       toc_label: Overview
       toc_icon: "cog"
+      toc_sticky: true
       sidebar:
         nav: "projects"
 
