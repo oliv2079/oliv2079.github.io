@@ -5,7 +5,7 @@ header:
     teaser: /images/teaser/plot.png
 ---
 
-# Single Variables (Univariate)
+## Single Variables (Univariate)
 
 *With univariate data, we usualy only car about the overall shape of the distribution:*
 - Where are the data points located, and how far do they spread? What are typical, as well as minimal and maximal, values? 
