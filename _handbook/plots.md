@@ -21,7 +21,7 @@ This page almost exclusively uses citations from the book [*Data Analysis with O
 
 How do we analyze this data?
 
-### Dot/Jitter Plot - Key Points
+### Dot/Jitter Plot: Key Points
 
 - Whenever a certain value occurs more than once in the data set, the corresponding data points fall right on top of each other, which makes it impossible to distinguish them. This is a frequent problem, especially if the data assumes only integer values. The problem is avoided by shifting each point by a small random amount from its original position resulting in a *Jitter Plot*
 -
