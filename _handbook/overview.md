@@ -1,6 +1,10 @@
 ---
 title: "Data Science Handbook"
 permalink: /handbook/overview/
+layout: collection
+collection: handook
+entries_layout: grid
+teaser: /images/teaser/sql.jpg
 ---
 
 This is my Handbook that I use as a 'Cheat Sheet' when working with Data Science. It has been crafted to work with my personal workflow so it might not be universally applicable. 
