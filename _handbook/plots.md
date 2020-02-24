@@ -5,6 +5,7 @@ header:
     teaser: /images/teaser/plot.png
 ---
 
+
 Pros and Cons of using different types of plots depending on the data.
 
 ## Single Variables (Univariate)
