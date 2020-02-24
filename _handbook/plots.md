@@ -39,7 +39,7 @@ How do we analyze this data?
 
 $$w=3.5*\sigma / \sqrt[3]{n}$$ 
 
-    where $$\sigma$$ is the standard deviation of the distribution and $$n$$ is the number of points.
+where $$\sigma$$ is the standard deviation of the distribution and $$n$$ is the number of points.
 - In an *unnormalized histogram*, the value plotted for each bin is the absolute count of events in that bin
 - In a *normalized histogram*, we divide each count by the total number of points in the data set, so that the value for each bin becomes the fraction of points in that bin
 - *Differing Bin Widths:* narrower where points are tightly clustered but wider in areas where there are only few points. Appealing when the data set has outliers or areas with widely differing point density. *Problem*: should you display the absolute number of points per bin regardless of the width of each bin; or should you display the density of points per bin by normalizing the point count per bin by the bin width?
