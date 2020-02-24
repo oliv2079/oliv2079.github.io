@@ -39,11 +39,11 @@ $$w=3.5*\sigma / \sqrt[3]{n}$$
 - In an *unnormalized histogram*, the value plotted for each bin is the absolute count of events in that bin
 - In a *normalized histogram*, we divide each count by the total number of points in the data set, so that the value for each bin becomes the fraction of points in that bin
 - *Differing Bin Widths:* narrower where points are tightly clustered but wider in areas where there are only few points. Appealing when the data set has outliers or areas with widely differing point density. *Problem*: should you display the absolute number of points per bin regardless of the width of each bin; or should you display the density of points per bin by normalizing the point count per bin by the bin width?
-<img align="right" width="100" height="100" src="/images/handbook/frequency-polygons.jpg">
+
 - To compare two or more data sets, draw [*frequency polygons*](#frequency-polygons): remove the boxes, and draw symbols where the top of the boxes would have been. (The horizontal position of the symbol should be at the center of the bin.) Then connect consecutive symbols with straight lines. Frequency polygons are almost always a better choice than a histogram from boxes. If you nevertheless choose to use boxes, it is best to avoid ﬁlling them.
 - When comparing several data sets in the same graph, always use a frequency polygon, and stay away from stacked or clustered bar graphs, since these are hard to read.
 
-
+### Frequency Polygons
 
 
 
