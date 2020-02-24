@@ -3,6 +3,8 @@ title: "Questions to Ask with Single (Univariate) Variables"
 permalink: /handbook/plots-and-variables/univariate-questions/
 header:
     teaser: /images/teaser/plot.png
+toc: false
+classes: wide
 ---
 
 > *With univariate data, we usualy only care about the overall shape of the distribution:*
