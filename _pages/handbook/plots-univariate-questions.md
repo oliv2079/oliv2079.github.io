@@ -5,6 +5,7 @@ header:
     teaser: /images/teaser/plot.png
 toc: false
 classes: wide2
+classes: wide
 ---
 
 > *With univariate data, we usualy only care about the overall shape of the distribution:*
