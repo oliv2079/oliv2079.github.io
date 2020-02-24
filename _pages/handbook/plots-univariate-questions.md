@@ -4,7 +4,7 @@ permalink: /handbook/plots-and-variables/univariate-questions/
 header:
     teaser: /images/teaser/plot.png
 toc: false
-classes: wide2, wide
+classes: wide2
 ---
 
 > *With univariate data, we usualy only care about the overall shape of the distribution:*

@@ -329,6 +329,7 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: "handbook"
+      classes: wide2
 
   # _projects
   - scope:
