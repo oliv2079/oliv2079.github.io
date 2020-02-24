@@ -34,7 +34,7 @@ Makes it hard to read off quantitative information from the graph. In particular
 
 $$w=3.5*\sigma / \sqrt[3]{n}$$ 
 
-⋅⋅⋅where $$\sigma$$ is the standard deviation of the distribution and $$n$$ is the number of points.
+  where $$\sigma$$ is the standard deviation of the distribution and $$n$$ is the number of points.
 
 - In an *unnormalized histogram*, the value plotted for each bin is the absolute count of events in that bin
 - In a *normalized histogram*, we divide each count by the total number of points in the data set, so that the value for each bin becomes the fraction of points in that bin
