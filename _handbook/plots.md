@@ -44,7 +44,7 @@ $$w=3.5*\sigma / \sqrt[3]{n}$$
 - When comparing several data sets in the same graph, always use a frequency polygon, and stay away from stacked or clustered bar graphs, since these are hard to read.
 
 ### Frequency Polygons
-
+<img align="right" width="100" height="100" src="/images/handbook/frequency-polygons.jpg">
 
 
 
