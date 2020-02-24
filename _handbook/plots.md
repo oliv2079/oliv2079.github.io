@@ -43,11 +43,8 @@ $$w=3.5*\sigma / \sqrt[3]{n}$$
 - To compare two or more data sets, draw [*frequency polygons*](#frequency-polygons): remove the boxes, and draw symbols where the top of the boxes would have been. (The horizontal position of the symbol should be at the center of the bin.) Then connect consecutive symbols with straight lines. Frequency polygons are almost always a better choice than a histogram from boxes. If you nevertheless choose to use boxes, it is best to avoid ﬁlling them.
 - When comparing several data sets in the same graph, always use a frequency polygon, and stay away from stacked or clustered bar graphs, since these are hard to read.
 
-### Frequency Polygons
-<img align="right" width="400" src="/images/handbook/frequency-polygons.jpg">
-
-
-
+### [Frequency Polygons](/images/handbook/frequency-polygons.jpg "Source: math.libretexts.org")
+- When comparing several data sets in the same graph, always use a frequency polygon, and stay away from stacked or clustered bar graphs, since these are hard to read.
 
 
 ## Sources
