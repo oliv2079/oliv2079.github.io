@@ -4,7 +4,6 @@ permalink: /handbook/plots-and-variables/
 header:
     teaser: /images/teaser/plot.png
 ---
-This page almost exclusively uses citations from the book [*Data Analysis with Open Source Tools*](http://shop.oreilly.com/product/9780596802363.do){:target="_blank"} by *Philipp K. Janert*
 
 ## Single Variables (Univariate)
 
@@ -45,4 +44,7 @@ where $$\sigma$$ is the standard deviation of the distribution and $$n$$ is the 
 
 
 
+## Sources
+
+[*Data Analysis with Open Source Tools*](http://shop.oreilly.com/product/9780596802363.do){:target="_blank"} by [*Philipp K. Janert*](https://www.oreilly.com/pub/au/933){:target="_blank"}
 
