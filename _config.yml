@@ -327,8 +327,8 @@ defaults:
       toc_label: Overview
       toc_icon: "cog"
       toc_sticky: true
-      sidebar:
-        nav: "handbook"
+      #sidebar:
+      #  nav: "handbook"
       classes: wide2
 
   # _projects
