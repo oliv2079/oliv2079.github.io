@@ -30,11 +30,7 @@ Makes it hard to read off quantitative information from the graph. In particular
 
 ### Histogram
 
-- *Bin Width:* There is no simple rule of thumb that can predict a good bin width for a given data set; typically you have to try out several different values for the bin width until you get a good result. Assuming a Gaussian Distribution, one can start with [Scott’s rule](https://en.wikipedia.org/wiki/Histogram#Scott's_normal_reference_rule){:target="_blank"} for the bin width
-
-$$w=3.5*\sigma / \sqrt[3]{n}$$ 
-
-  where $$\sigma$$ is the standard deviation of the distribution and $$n$$ is the number of points.
+- *Bin Width:* There is no simple rule of thumb that can predict a good bin width for a given data set; typically you have to try out several different values for the bin width until you get a good result. Assuming a Gaussian Distribution, one can start with [Scott’s rule](https://en.wikipedia.org/wiki/Histogram#Scott's_normal_reference_rule){:target="_blank"} for the bin width $$w=3.5*\sigma / \sqrt[3]{n}$$ where $$\sigma$$ is the standard deviation of the distribution and $$n$$ is the number of points.
 
 - In an *unnormalized histogram*, the value plotted for each bin is the absolute count of events in that bin
 - In a *normalized histogram*, we divide each count by the total number of points in the data set, so that the value for each bin becomes the fraction of points in that bin
