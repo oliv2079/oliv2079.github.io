@@ -5,17 +5,20 @@ header:
     teaser: /images/teaser/plot.png
 ---
 
+Pros and Cons of using different types of plots depending on the data.
+
 ## Single Variables (Univariate)
 
-> *With univariate data, we usualy only care about the overall shape of the distribution:*
+With univariate data, we usualy only care about the overall shape of the distribution
+
 > [Questions to ask when considering single variables](/handbook/plots-and-variables/univariate-questions/)
 
-How do we analyze this data?
 
 ### Dot Plot
 
-- Whenever a certain value occurs more than once in the data set, the corresponding data points fall right on top of each other, which makes it impossible to distinguish them. This is a frequent problem, especially if the data assumes only integer values. The problem is avoided by shifting each point by a small random amount from its original position resulting in a *Jitter Plot*
-- Makes it hard to read off quantitative information from the graph. In particular, if we are dealing with larger data sets, then we need a better type of graph, such as a *Histogram*.
+Whenever a certain value occurs more than once in the data set, the corresponding data points fall right on top of each other, which makes it impossible to distinguish them. This is a frequent problem, especially if the data assumes only integer values. The problem is avoided by shifting each point by a small random amount from its original position resulting in a *Jitter Plot*
+
+Makes it hard to read off quantitative information from the graph. In particular, if we are dealing with larger data sets, then we need a better type of graph, such as a *Histogram*.
 
 ### Jitter Plot
 
