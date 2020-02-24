@@ -40,7 +40,7 @@ Makes it hard to read off quantitative information from the graph. In particular
 - When comparing several data sets in the same graph, always use a frequency polygon, and stay away from stacked or clustered bar graphs, since these are hard to read.
 
 ### Frequency Polygons
-[Example Plot](/images/handbook/frequency-polygons.jpg "Source: math.libretexts.org")
+[Example Plot](/images/handbook/frequency-polygons.jpg "Source: math.libretexts.org"){: .btn}{: .text-right}
 - When comparing several data sets in the same graph, always use a frequency polygon, and stay away from stacked or clustered bar graphs, since these are hard to read.
 
 
