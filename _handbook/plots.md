@@ -30,18 +30,39 @@ Makes it hard to read off quantitative information from the graph. In particular
 
 ### Histogram
 
+- Common 
+- intuitive interpretation
+- Easy to generate
+- Not unique (e.g. varies depending on Bin Width)
+- Ragged and not smooth (Cannot be evaluated as a function)
+- Do not handle outliers well
+
 - *Bin Width:* There is no simple rule of thumb that can predict a good bin width for a given data set; typically you have to try out several different values for the bin width until you get a good result. Assuming a Gaussian Distribution, one can start with [Scott’s rule](https://en.wikipedia.org/wiki/Histogram#Scott's_normal_reference_rule){:target="_blank"} for the bin width $$w=3.5*\sigma / \sqrt[3]{n}$$ where $$\sigma$$ is the standard deviation of the distribution and $$n$$ is the number of points.
 
-- In an *unnormalized histogram*, the value plotted for each bin is the absolute count of events in that bin
-- In a *normalized histogram*, we divide each count by the total number of points in the data set, so that the value for each bin becomes the fraction of points in that bin
-- *Differing Bin Widths:* narrower where points are tightly clustered but wider in areas where there are only few points. Appealing when the data set has outliers or areas with widely differing point density. *Problem*: should you display the absolute number of points per bin regardless of the width of each bin; or should you display the density of points per bin by normalizing the point count per bin by the bin width?
 
-- To compare two or more data sets, draw [*frequency polygons*](#frequency-polygons): remove the boxes, and draw symbols where the top of the boxes would have been. (The horizontal position of the symbol should be at the center of the bin.) Then connect consecutive symbols with straight lines. Frequency polygons are almost always a better choice than a histogram from boxes. If you nevertheless choose to use boxes, it is best to avoid ﬁlling them.
+*Differing Bin Widths:* narrower where points are tightly clustered but wider in areas where there are only few points. Appealing when the data set has outliers or areas with widely differing point density. *Problem*: should you display the absolute number of points per bin regardless of the width of each bin; or should you display the density of points per bin by normalizing the point count per bin by the bin width?
+
+*unnormalized histogram*: the value plotted for each bin is the absolute count of events in that bin
+
+*normalized histogram*: we divide each count by the total number of points in the data set, so that the value for each bin becomes the fraction of points in that bin
+
+*two or more data sets*: draw [*frequency polygons*](#frequency-polygons): remove the boxes, and draw symbols where the top of the boxes would have been. (The horizontal position of the symbol should be at the center of the bin.) Then connect consecutive symbols with straight lines. Frequency polygons are almost always a better choice than a histogram from boxes. If you nevertheless choose to use boxes, it is best to avoid ﬁlling them.
 - When comparing several data sets in the same graph, always use a frequency polygon, and stay away from stacked or clustered bar graphs, since these are hard to read.
+- 
 
 ### Frequency Polygons 
 - [Example](/images/handbook/frequency-polygons.jpg "Source: math.libretexts.org")
 - When comparing several data sets in the same graph, always use a frequency polygon, and stay away from stacked or clustered bar graphs, since these are hard to read.
+
+### Kernal Density Estimates (KDE)
+- *Area* under curve formed by a kernel must be 1 -> properly normalized.
+- We are free to use the kernel that is most convenient
+- Must move the kernel to the position of each point by shifting it
+- Must choose the kernel bandwidth, controlling the spread of the kernel function. 
+- Large data sets can lead to performance issues
+    -If this becomes a problem, use simpler kernel function or don't evaluate a kernel if the distance $$x−x_i$$ is signiﬁcantly greater than the bandwidth h.
+- Is unique
+- Is also smooth (depending on kernel)
 
 
 ## Sources
