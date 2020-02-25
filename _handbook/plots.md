@@ -10,6 +10,7 @@ Pros and Cons of using different types of plots depending on the data.
 
 ## Summary Statistics
 
+- Visualization of full data always better than summary statistics.
 - Mean, Median, Standard Deviation, Percentiles, ...
 - Apply only under certain assumptions and are misleading
 - Because something is convenient and popular is no reason to follow suit.
