@@ -65,8 +65,9 @@ Makes it hard to read off quantitative information from the graph. In particular
 
 ### Cumulative Distribution Function (CDF)
 - [Example](/images/handbook/cdf.png "Data Analysis with Open Source Tools - Page 24")
-- A Histogram (or KDE) can be misleading despite of their intuitive appeal
-
+- A Histogram (or KDE) can be misleading (The eye is much better at judging distances than areas)
+- Less wiggly than a histogram (or KDE), but contains the same information (and less noisy). 
+- No binning, they do not lose information -> more faithful representation of the data than a histogram
 
 
 
