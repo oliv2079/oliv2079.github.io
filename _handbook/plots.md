@@ -8,6 +8,21 @@ header:
 
 Pros and Cons of using different types of plots depending on the data.
 
+## Summary Statistics
+- Mean, Median, Standard Deviation, Percentiles, ...
+- Apply only under certain assumptions and are misleading
+- Because something is convenient and popular is no reason to follow suit.
+- Apply only to distributions that have a single, central peak (unimodal distributions). If not fulﬁlled, then conclusions based on simple summary statistics will be wrong
+- Prefer Standard Deviation over Variance: Both measure for the location, and the measure spread will have the same units, which are also the units of the actual data
+- Expect 2/3 of data is within 1 sd and 99% within 3 sd (unless not symmetric or many outliers)
+
+- Median, Quantiles, Percentiles: More Flexible and Robust
+- Use these (over mean, sd, ...) whenever distribution is not symmetric or has important outliers.
+
+- Inter Quantile Range (IQR - distance between the 75th percentile and 25th percentile) is most frequently used.
+
+
+
 ## Single Variables (Univariate)
 
 With univariate data, we usualy only care about the overall shape of the distribution
@@ -50,7 +65,7 @@ Makes it hard to read off quantitative information from the graph. In particular
 - When comparing several data sets in the same graph, always use a frequency polygon, and stay away from stacked or clustered bar graphs, since these are hard to read.
 
 ### Frequency Polygons 
-- [Example](/images/handbook/frequency-polygons.jpg "Source: math.libretexts.org")
+- [Frequency Polygons](/images/handbook/frequency-polygons.jpg "Source: math.libretexts.org")
 - When comparing several data sets in the same graph, always use a frequency polygon, and stay away from stacked or clustered bar graphs, since these are hard to read.
 
 ### Kernal Density Estimates (KDE)
@@ -64,12 +79,24 @@ Makes it hard to read off quantitative information from the graph. In particular
 - Is also smooth (depending on kernel)
 
 ### Cumulative Distribution Function (CDF)
-- [Example](/images/handbook/cdf.png "Data Analysis with Open Source Tools - Page 24")
+- [CDF](/images/handbook/cdf.png "Data Analysis with Open Source Tools - Page 27")
 - A Histogram (or KDE) can be misleading (The eye is much better at judging distances than areas)
 - Less wiggly than a histogram (or KDE), but contains the same information (and less noisy). 
-- No binning, they do not lose information -> more faithful representation of the data than a histogram
+- No binning, they do not lose information meaning more faithful representation
+- A CDF is unique for a given data set. 
+- Comparing bell-shaped curves in a histogram is hard. Comparing corresponding CDFs is much more conclusive.
 
+### Probability Function & QQ Plot
+- [Example](/images/handbook/probabilityplot.png "Data Analysis with Open Source Tools - Page 24")
+- Purpose: Determine whether a given data set stems from a speciﬁc, known distribution
+- Advanced, specialized technique
+- You should evaluate whether you really need them
 
+### Rank Order Plots & Lift Charts
+- [Rank Order](/images/handbook/rankorder.png "Data Analysis with Open Source Tools - Page 24"), [Pareto](/images/handbook/pareto.png "Data Analysis with Open Source Tools - Page 24")
+- When the independent variable does not have an intrinsic ordering, it is often a good idea to sort entries by the dependent variable
+- Sorting by the dependent variable is useful when independent variable has no meaningful ordering relation
+- Cumulative distribution curve is occasionally referred to as a lift curve (It shows the “lift” from each entry or range of entries)
 
 
 ## Sources
