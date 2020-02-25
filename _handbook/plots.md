@@ -48,7 +48,6 @@ Makes it hard to read off quantitative information from the graph. In particular
 
 *two or more data sets*: draw [*frequency polygons*](#frequency-polygons): remove the boxes, and draw symbols where the top of the boxes would have been. (The horizontal position of the symbol should be at the center of the bin.) Then connect consecutive symbols with straight lines. Frequency polygons are almost always a better choice than a histogram from boxes. If you nevertheless choose to use boxes, it is best to avoid ﬁlling them.
 - When comparing several data sets in the same graph, always use a frequency polygon, and stay away from stacked or clustered bar graphs, since these are hard to read.
-- 
 
 ### Frequency Polygons 
 - [Example](/images/handbook/frequency-polygons.jpg "Source: math.libretexts.org")
@@ -63,6 +62,13 @@ Makes it hard to read off quantitative information from the graph. In particular
     -If this becomes a problem, use simpler kernel function or don't evaluate a kernel if the distance $$x−x_i$$ is signiﬁcantly greater than the bandwidth h.
 - Is unique
 - Is also smooth (depending on kernel)
+
+### Cumulative Distribution Function (CDF)
+- [Example](/images/handbook/cdf.png "Data Analysis with Open Source Tools - Page 24")
+- A Histogram (or KDE) can be misleading despite of their intuitive appeal
+
+
+
 
 
 ## Sources
